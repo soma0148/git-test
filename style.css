@@ -1,9 +1,8 @@
 .h1 {
-    font-size: 50px;
-    background-color: brown;
+    color: red;
+    } 
 
-} 
-p{
+    p{
     margin-top: 5em;
     color: blueviolet;
 }
